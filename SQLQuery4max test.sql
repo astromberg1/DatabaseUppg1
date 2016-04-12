@@ -1,0 +1,1 @@
+SELECT TOP 1 Salary FROM tblPassangers ORDER BY Salary 
